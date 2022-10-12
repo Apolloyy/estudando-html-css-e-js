@@ -17,10 +17,3 @@ click = true;
 }
 
 
-if (trocadecor()) {
-    button.style.backgroundColor ='#b1c1db';
-    click = true;
-}else{
-    button.style.backgroundColor ='#2b1e1e';
-    click = false;
-}
